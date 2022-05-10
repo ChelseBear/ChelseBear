@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChelseBear
 - 👀 I’m interested in learning, reading, writing and crafts!
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on my MRes. 
+- 💞️ I’m looking to collaborate on anything to help me learn. 
 - 📫 How to reach me: chelseaannbrunner@gmail.com
 
 <!---
